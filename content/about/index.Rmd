@@ -1,0 +1,32 @@
+---
+title: About Me
+description: Bobby Ingram
+disable_comments: TRUE
+menu: main
+weight: 2
+---
+
+<center>
+<img src="about_me.JPG" alt="Bobby" class="center" height="300">
+</center>
+<br>
+
+I live in Newcastle-under-Lyme, Staffordshire with my wife [Rachael](https://twitter.com/rachaelamyy) and our son 
+Harrison.
+
+I grew up in nearby Burslem - the 'Mother Town' of the [Potteries](https://en.wikipedia.org/wiki/Staffordshire_Potteries). 
+
+I'm a season ticket holder at [Port Vale FC](https://www.port-vale.co.uk/) and 
+also support [Yorkshire CCC](https://yorkshireccc.com/) and [Minnesota Vikings](https://www.vikings.com/). 
+
+Alongside an ever-growing record collection, [Radio 6 Music](https://www.bbc.co.uk/sounds/play/live:bbc_6music) forms the soundtrack
+to my life.
+
+I'm a real bookworm and you'll often find me with a [vintage Penguin](https://countryhouselibrary.co.uk/collections/penguin-classics) and a
+cup of tea.
+
+I'm a Lead Sports Analyst at [bet365](https://www.bet365.com) where I design
+and implement probabilistic models to drive the pricing of bets across a range 
+of sports.
+
+Feel free to contact me via [email](mailto:bobby@bobbyingram.co.uk). 

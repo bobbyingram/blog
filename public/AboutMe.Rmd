@@ -1,0 +1,18 @@
+---
+title: "About Me"
+author: "Bobby Ingram"
+date: "2018-05-12"
+---
+I grew up in Burslem, Stoke-on-Trent.
+
+I'm a sports analyst. I enjoy writing clean and well organised code. I'm 
+constantly trying out some new programming language or experimenting with new 
+techniques.
+
+I am delving deeper into Bayesian statistics.
+
+You can contact me via [email](mailto:mariosangiorgio@gmail.com), on [Twitter](https://twitter.com/mariosangiorgio) or using [Keybase](https://keybase.io/mariosangiorgio)
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```

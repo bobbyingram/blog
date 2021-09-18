@@ -1,0 +1,12 @@
+---
+title: Math.NET Numerics
+author: Bobby Ingram
+date: '2020-10-03'
+link: https://numerics.mathdotnet.com/Contributors.html
+slug: mathnet numerics
+tags:
+  - C#
+description: "Methods and algorithms for numerical computations"
+repo: ''
+weight: 1
+---

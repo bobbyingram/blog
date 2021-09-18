@@ -1,0 +1,12 @@
+---
+title: rjqpd
+author: Bobby Ingram
+date: '2020-10-03'
+link: https://github.com/bobbyingram/rjqpd
+slug: johnson-quantile-parameterised-distributions
+tags:
+  - R
+description: "Johnson Quantile-Parameterised Distribution implemented in R"
+repo: ''
+weight: 0
+---

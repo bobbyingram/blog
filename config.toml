@@ -1,0 +1,54 @@
+baseURL = "https://bobbyingram.co.uk"
+languageCode = "en-uk"
+title = "Bobby Ingram"
+theme = "minimal"
+disqusShortname = "bobbyingram" # delete this to disable disqus comments
+googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "\\.knit\\.md$", "\\.utf8\\.md$", "_cache$"]
+
+[params]
+    author = "Bobby Ingram"
+    description = "It's Alright, Ma - I'm Only Blogging"
+    githubUsername = "bobbyingram"
+    accent = "black"
+    showBorder = true
+    enableEmoji = true
+    backgroundColor = "white"
+    font = "American Typewriter" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "github"
+    highlightjsVersion = "10.5.0"
+    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["c#", "go", "python", "r", "sql", "stan", "yaml"]
+    MathJaxCDN = "//cdn.bootcss.com"
+    MathJaxVersion = "2.7.1"
+    css = ["css/custom.css"]
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/project/"
+    name = "Projects"
+    weight = 4
+
+# Social icons to be shown on the right-hand side of the navigation bar
+# The "name" field should match the name of the icon to be used
+# The list of available icons can be found at http://fontawesome.io/icons/
+
+[[menu.icon]]
+    url = "mailto:bobby@bobbyingram.co.uk"
+    name = "envelope-o"
+    weight = 1
+    
+[[menu.icon]]
+    url = "https://linkedin.com/in/bobby-ingram-300"
+    name = "linkedin"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://github.com/bobbyingram/"
+    name = "github"
+    weight = 3

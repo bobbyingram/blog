@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Code');
+
+body code, .hljs {
+    font-family: 'Fira Code', monospace;
+}

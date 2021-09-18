@@ -1,0 +1,32 @@
+---
+title: About Me
+description: Bobby Ingram
+comments: false
+menu: main
+weight: 4
+---
+<center>
+<img src="/img/bobby.jpg" alt="Bobby" class="center" height="300">
+</center>
+<br>
+
+I live in Newcastle-under-Lyme, Staffordshire with my fiancée [Rachael](http://www.rachaelamyreads.co.uk/).
+
+I grew up nearby in the Burslem - the 'Mother Town' of the [Potteries](https://en.wikipedia.org/wiki/Staffordshire_Potteries). I am a huge 
+sports fan and will happily watch almost anything involving a ball, but I 
+follow: football, cricket and basketball most closely. The teams I follow in 
+each are Port Vale FC, Lancashire CCC and Golden State Warriors. 
+
+I am a huge music buff and have been building my record collection for around 10 
+years now. Some records I've bought recently are the latest LPs by
+[King Gizzard & The Lizard Wizard](http://kinggizzardandthelizardwizard.com/), 
+[Beach House](http://www.beachhousebaltimore.com/) and 
+[Kamasi Washington](https://www.kamasiwashington.com/).
+
+I work as a Sports Analyst at [bet365](https://www.bet365.com). In this role I 
+am responsible for developing and implementing models that produce odds for the 
+different markets offered across the site. I am a strong advocate of the need
+for models to have solid mathematical and statistical foundations and that data 
+should be used wherever possible to drive probabilistic decisions.
+
+Feel free to contact me via [email](mailto:ingram.bob@gmail.com). 
