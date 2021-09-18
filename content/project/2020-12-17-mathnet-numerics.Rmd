@@ -5,7 +5,7 @@ date: '2020-10-03'
 link: https://numerics.mathdotnet.com/Contributors.html
 slug: mathnet numerics
 tags:
-  - C#
+  - .NET
 description: "Methods and algorithms for numerical computations"
 repo: ''
 weight: 1
