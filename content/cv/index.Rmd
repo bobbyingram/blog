@@ -44,7 +44,7 @@ pricing within the sports betting platform.
 
 ### Technologies
 
-```{r, message=FALSE, warning=FALSE, echo=FALSE}
+```{r, message=FALSE, warning=FALSE, echo=FALSE, eval=FALSE}
 library(tidyverse)
 library(scales)
 
@@ -75,6 +75,11 @@ ggplot(data = skills,
   theme_minimal() + 
   scale_fill_discrete()
 ```
+
+<center>
+<img src="technologies.png" alt="Bobby" class="center">
+</center>
+<br>
 
 ## Education
 
