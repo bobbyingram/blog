@@ -2,7 +2,7 @@
 title: Math.NET Numerics
 author: Bobby Ingram
 date: '2020-10-03'
-link: https://numerics.mathdotnet.com/Contributors.html
+link: https://numerics.mathdotnet.com/
 slug: mathnet numerics
 tags:
   - .NET
