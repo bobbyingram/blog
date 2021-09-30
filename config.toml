@@ -2,9 +2,9 @@ baseURL = "https://bobbyingram.co.uk/"
 languageCode = "en-uk"
 title = "Bobby Ingram"
 theme = "minimal"
-disqusShortname = "bobbyingram" # delete this to disable disqus comments
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "\\.knit\\.md$", "\\.utf8\\.md$", "_cache$"]
+#disqusShortname = "bobbyingram" # delete this to disable disqus comments
 
 [params]
     author = "Bobby Ingram"
