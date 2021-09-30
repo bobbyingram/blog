@@ -1,0 +1,21 @@
+---
+title: Chronicles by Bob Dylan
+author: Bobby Ingram
+date: '2021-09-30'
+slug: []
+categories:
+  - books
+tags:
+  - autobiography
+draft: yes
+---
+
+## Review &#11089;&#11089;&#11089;
+
+>Darkness at the break of noon  
+shadows even the silver spoon   
+the handmade blade a child's ballon  
+eclipses both the sun and moon  
+to understand you know to soon  
+there is no sense in dying. 
+ 

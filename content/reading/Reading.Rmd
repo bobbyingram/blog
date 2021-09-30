@@ -1,0 +1,29 @@
+---
+title: "Reading"
+menu: main
+weight: 3
+hidedate: TRUE
+comments: FALSE
+---
+
+```{r, echo=FALSE}
+nstars <- function(n){
+  paste0(rep('&#11089;', n), collapse = "")
+}
+
+books <- tibble::tribble(
+  ~title, ~author, ~date, ~rating,
+  "[Pachinko](/reading/2021-09-30-pachinko/index.html)", "Min Jin Lee", "2021-11-01", 
+  nstars(3),
+  "[Chronicles](/reading/2021-09-30-chronicles/index.html)", "Bob Dylan", "2021-11-01", 
+  nstars(4),
+  "[The Time Traveller's Guide to Regency Britain](/reading/2021-09-30-chronicles/index.html)", "Ian Mortimer", "2021-11-01", 
+  nstars(4),
+)
+```
+
+
+```{r, echo = FALSE}
+table <- knitr::kable(books, col.names = rep("", 4), "html", escape = FALSE)
+kableExtra::kable_styling(table, full_width = TRUE)
+```

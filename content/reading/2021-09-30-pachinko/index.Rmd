@@ -1,0 +1,15 @@
+---
+title: Pachinko by Min Jin Lee
+author: R package build
+date: '2021-09-30'
+slug: []
+categories:
+  - books
+tags:
+  - fiction
+draft: yes
+---
+
+## Review &#11089;&#11089;&#11089;
+
+My wife recommended this book to me.
