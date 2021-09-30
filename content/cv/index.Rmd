@@ -10,7 +10,6 @@ layout: cv
 # Bobby Ingram
 <div id="webaddress">
 <a href="mailto:bobby@bobbyingram.co.uk">bobby@bobbyingram.co.uk</a>
-| +447884 075400
 </div>
 
 ## Profile
@@ -21,7 +20,7 @@ industries.
 
 Highly skilled in all areas of data analysis, statistical inference and 
 probabilistic predictive modelling with a proven track record of delivering 
-robust, accurate and efficient models.
+accurate, efficient and profitable models.
 
 An adaptable programmer that is not tied to any particular language, paradigm or
 tool set. A strong advocate for reproducible research practices and test driven 
@@ -103,7 +102,13 @@ __St. Margaret Ward RC Sixth Form__
 `2021-now`
 __Lead Sports Analyst, bet365__ 
 
-* Delivered an American Football simulation model used to price all betbuilder bets.
+* Led a team of analysts in successfully delivering a new simulation-based 
+American Football model used to price all bet builder bets. 
+* Developed a bespoke distribution fitting algorithm to optimally construct
+distributions from single point value estimates and using domain knowledge to 
+infer additional constraints.
+
+Technologies: Go, R, Python, C#, VB .NET, SQL, git, Stan
 
 `2017-2021`
 __Senior Sports Analyst, bet365__
@@ -127,9 +132,6 @@ Technologies: R, Python, C++, Go, SQL, git, AWS, Spark
 `2010-2017`
 __Financial Analyst, bet365__
 
-* Reimplemented existing model MATLAB scripts into an object orientated 
-model architecture to bring the solution to production quality. Added a 
-testing framework and a fully featured test harness.
 * Developed bespoke volatility metrics to underpin the pricing of all
 models used across the financial betting platform.
 * Implemented custom parametric probability distributions to adjust for the 
