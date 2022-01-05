@@ -13,12 +13,14 @@ nstars <- function(n){
 
 books <- tibble::tribble(
   ~title, ~author, ~date, ~rating,
-  "[Pachinko](/reading/2021-09-30-pachinko/index.html)", "Min Jin Lee", "2021-11-01", 
-  nstars(3),
-  "[Chronicles](/reading/2021-09-30-chronicles/index.html)", "Bob Dylan", "2021-11-01", 
-  nstars(4),
-  "[The Time Traveller's Guide to Regency Britain](/reading/2021-09-30-chronicles/index.html)", "Ian Mortimer", "2021-11-01", 
-  nstars(4),
+  "[A Christmas Carol](/reading/2021-12-24-a-christmas-carol/index.html)", "Charles Dickens", "2021-12-24", nstars(4),
+  "[Hard Times](/reading/2021-12-06-hard-times/index.html)", "Charles Dickens", "2021-12-20", nstars(3),
+  "[The Mirror And The Light](/reading/2021-11-28-the-mirror-and-the-light/index.html)", "Hilary Mantel", "2021-11-28", nstars(4),
+  "[Bringing Up The Bodies](/reading/2021-11-17-bringing-up-the-bodies/index.html)", "Hilary Mantel", "2021-11-17", nstars(5),
+  "[Wolf Hall](/reading/2021-11-10-wolf-hall/index.html)", "Hilary Mantel", "2021-11-10", nstars(4),
+  "[Pachinko](/reading/2021-11-01-pachinko/index.html)", "Min Jin Lee", "2021-11-01", nstars(3),
+  "[Chronicles](/reading/2021-10-24-chronicles/index.html)", "Bob Dylan", "2021-10-24", nstars(4),
+  "[The Time Traveller's Guide to Regency Britain](/reading/2021-10-16-the-time-traveller-s-guide-to-regency-britain/index.html)", "Ian Mortimer", "2021-10-16", nstars(3),
 )
 ```
 

@@ -1,0 +1,28 @@
+---
+title: Hard Times
+date: '2021-12-06'
+slug: []
+categories:
+  - books
+tags:
+  - fiction
+---
+
+<center>
+<img src="Charles Dickens - Hard Times.jpg" 
+alt="Bobby" class="center" height="300">
+</center>
+<br>
+
+### Review
+
+
+
+### Rating &#11089;&#11089;&#11089;
+
+### Details
+
+* Pages: 92
+* ISBN: 978-1784873431
+* Publisher: Vintage Publishing
+* Bookshop: [Charles Dickens - A Christmas Carol](https://uk.bookshop.org/a/9445/9781784873431)

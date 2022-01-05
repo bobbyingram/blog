@@ -1,0 +1,24 @@
+---
+title: Wolf Hall
+author: R package build
+date: '2021-11-10'
+slug: []
+categories:
+  - books
+tags:
+  - fiction
+---
+
+### Review
+
+[Wolf Hall](https://en.wikipedia.org/wiki/Wolf_Hall) is a difficult book. It 
+demands complete focus and concentration but the reward is enormous. 
+
+### Rating &#11089;&#11089;&#11089;&#11089;
+
+### Details
+
+* Pages: 672
+* ISBN: 978-0008366759
+* Publisher: Fourth Estate
+* Bookshop: [Hilary Mantel - Wolf Hall](https://uk.bookshop.org/a/9445/9780008381691)

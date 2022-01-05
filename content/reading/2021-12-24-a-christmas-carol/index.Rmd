@@ -1,0 +1,32 @@
+---
+title: A Christmas Carol
+author: R package build
+date: '2021-12-24'
+slug: []
+categories:
+  - books
+tags:
+  - fiction
+---
+
+<center>
+<img src="Charles Dickens - A Christmas Carol.jpg" 
+alt="Bobby" class="center" height="300">
+</center>
+<br>
+
+### Review
+
+
+
+### Rating &#11089;&#11089;&#11089;&#11089;
+
+### Details
+
+* Pages: 336
+* ISBN: 978-0140439052
+* Publisher: Penguin Books
+* Bookshop: [Charles Dickens - Hard Times](https://uk.bookshop.org/a/9445/9780140439052)
+
+
+
