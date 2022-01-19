@@ -13,6 +13,7 @@ nstars <- function(n){
 
 books <- tibble::tribble(
   ~title, ~author, ~date, ~rating,
+  "[Gilead](/reading/2022-01-14-gilead/index.html)", "Marilynne Robinson", "2022-01-14", nstars(3),
   "[A Christmas Carol](/reading/2021-12-24-a-christmas-carol/index.html)", "Charles Dickens", "2021-12-24", nstars(4),
   "[Hard Times](/reading/2021-12-06-hard-times/index.html)", "Charles Dickens", "2021-12-20", nstars(3),
   "[The Mirror And The Light](/reading/2021-11-28-the-mirror-and-the-light/index.html)", "Hilary Mantel", "2021-11-28", nstars(4),
