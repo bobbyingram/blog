@@ -25,8 +25,8 @@ Alongside an ever-growing record collection,
 [Radio 6 Music](https://www.bbc.co.uk/sounds/play/live:bbc_6music) forms the 
 soundtrack to my life.
 
-I'm a real bookworm. You can see what I've been reading recently 
-[here](/reading/reading).
+I'm a real bookworm and always have a book on the go. You can see what I've been 
+reading recently [here](/reading/reading).
 
 I work as Lead Sports Analyst at [bet365](https://www.bet365.com) where I design
 and implement probabilistic models to drive the pricing of bets across a range 

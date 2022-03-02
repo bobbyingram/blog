@@ -1,7 +1,7 @@
 ---
 title: Chronicles Volume One by Bob Dylan
 author: Bobby Ingram
-date: '2021-09-30'
+date: '2021-10-24'
 slug: []
 categories:
   - books
@@ -23,6 +23,8 @@ start Dylan almost entirely ignores the period when he was at his cultural
 zenith in the mid 1960s and instead focuses on three periods: his arrival in 
 Greenwich Village in 1961-2 and the recordings of "New Morning" and "Oh Mercy" 
 in 1970 and 1989. 
+
+
 
 ### Rating &#11089;&#11089;&#11089;&#11089;
 
