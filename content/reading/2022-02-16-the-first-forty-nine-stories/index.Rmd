@@ -1,0 +1,28 @@
+---
+title: The First Forty-Nine Stories
+author: Bobby Ingram
+date: '2022-02-16'
+slug: []
+categories:
+  - books
+tags:
+  - fiction
+draft: yes
+---
+
+<center>
+<img src="Ernest Hemingway - The First Forty-Nine Stories.jpg" 
+alt="Bobby" class="center" height="300">
+</center>
+<br>
+
+### Review
+
+### Rating &#11089;&#11089;&#11089;&#11089;&#11089;
+
+### Details
+
+* Pages: 480
+* ISBN: 978-0099339212
+* Publisher: Arrow
+* Bookshop: [Ernest Hemingway - The First Forty-Nine Stories](https://uk.bookshop.org/a/9445/9780099339212)

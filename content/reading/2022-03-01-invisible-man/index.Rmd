@@ -24,5 +24,5 @@ alt="Bobby" class="center" height="300">
 
 * Pages: 582
 * ISBN: 978-0141184425
-* Publisher: HarperCollins Publishers
+* Publisher: Penguin Books
 * Bookshop: [Ralph Ellison - Invisible Man](https://uk.bookshop.org/a/9445/9780141184425)
