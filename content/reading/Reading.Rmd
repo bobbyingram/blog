@@ -13,6 +13,7 @@ nstars <- function(n){
 
 books <- tibble::tribble(
   ~title, ~author, ~date, ~rating,
+  "[Invisible Man](/reading/2022-03-01-invisible-man/index.html)", "Ralph Ellison", "2022-03-01", nstars(4),
   "[Gilead](/reading/2022-01-14-gilead/index.html)", "Marilynne Robinson", "2022-01-14", nstars(3),
   "[A Christmas Carol](/reading/2021-12-24-a-christmas-carol/index.html)", "Charles Dickens", "2021-12-24", nstars(4),
   "[Hard Times](/reading/2021-12-06-hard-times/index.html)", "Charles Dickens", "2021-12-20", nstars(3),
@@ -24,7 +25,6 @@ books <- tibble::tribble(
   "[The Time Traveller's Guide to Regency Britain](/reading/2021-10-16-the-time-traveller-s-guide-to-regency-britain/index.html)", "Ian Mortimer", "2021-10-16", nstars(3),
 )
 ```
-
 
 ```{r, echo = FALSE}
 table <- knitr::kable(books, col.names = rep("", 4), "html", escape = FALSE)

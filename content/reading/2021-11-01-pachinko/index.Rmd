@@ -1,6 +1,6 @@
 ---
-title: Pachinko by Min Jin Lee
-author: R package build
+title: Pachinko
+author: Bobby Ingram
 date: '2021-11-01'
 slug: []
 categories:
@@ -10,6 +10,23 @@ tags:
 draft: yes
 ---
 
-## Review &#11089;&#11089;&#11089;
+<center>
+<img src="Min Jin Lee - Pachinko.jpg" 
+alt="Bobby" class="center" height="300">
+</center>
+<br>
 
-My wife recommended this book to me.
+### Review
+
+
+
+### Rating &#11089;&#11089;&#11089;
+
+### Details
+
+* Pages: 496
+* ISBN: 978-1786691378
+* Publisher: Head of Zeus
+* Bookshop: [Min Jin Lee - Pachinko](https://uk.bookshop.org/a/9445/9781786691378)
+
+ 

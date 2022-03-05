@@ -1,16 +1,17 @@
 ---
-title: The Mirror And The Light
+title: Invisible Man
 author: Bobby Ingram
-date: '2021-11-28'
+date: '2022-03-01'
 slug: []
 categories:
   - books
 tags:
   - fiction
+draft: yes
 ---
 
 <center>
-<img src="Hilary Mantel - The Mirror And The Light.jpg" 
+<img src="Ralph Ellison - Invisible Man.jpg" 
 alt="Bobby" class="center" height="300">
 </center>
 <br>
@@ -21,7 +22,7 @@ alt="Bobby" class="center" height="300">
 
 ### Details
 
-* Pages: 912
-* ISBN: 978-0007481002
+* Pages: 582
+* ISBN: 978-0141184425
 * Publisher: HarperCollins Publishers
-* Bookshop: [Hilary Mantel - The Mirror And The Light](https://uk.bookshop.org/a/9445/9780007481002)
+* Bookshop: [Ralph Ellison - Invisible Man](https://uk.bookshop.org/a/9445/9780141184425)
