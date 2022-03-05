@@ -7,7 +7,6 @@ categories:
   - books
 tags:
   - fiction
-draft: yes
 ---
 
 <center>
@@ -46,5 +45,3 @@ of relationships and of faith told from inside the mind of an ordinary man.
 * ISBN: 978-1844081486
 * Publisher: Little, Brown Book Group
 * Bookshop: [Marilynne Robinson - Gilead](https://uk.bookshop.org/a/9445/9781844081486)
-
- 
