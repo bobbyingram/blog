@@ -23,7 +23,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "\\.knit\\.md$", "\\.utf8\\.md$", "_c
     MathJaxCDN = "//cdn.bootcss.com"
     MathJaxVersion = "2.7.1"
     css = ["css/custom.css"]
-
+   
 [[menu.main]]
     url = "/"
     name = "Home"

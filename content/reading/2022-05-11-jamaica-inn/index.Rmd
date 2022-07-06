@@ -1,0 +1,27 @@
+---
+title: Jamaica Inn
+author: Bobby Ingram
+date: '2022-05-11'
+slug: []
+categories:
+  - books
+tags:
+  - fiction
+---
+
+<center>
+<img src="Daphne Du Maurier - Jamaica Inn.jpg" 
+alt="Bobby" class="center" height="300">
+</center>
+<br>
+
+### Review
+
+### Rating &#11089;&#11089;&#11089;
+
+### Details
+
+* Pages: 320
+* ISBN: 978-0349006581
+* Publisher: Little, Brown Book Group
+* Bookshop: [Daphne Du Maurier - Jamaica Inn](https://uk.bookshop.org/a/9445/9780349006581)

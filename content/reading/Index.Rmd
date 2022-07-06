@@ -3,7 +3,7 @@ title: "Reading"
 menu: main
 weight: 3
 hidedate: TRUE
-comments: FALSE
+disable_comments: TRUE
 ---
 
 ```{r, echo=FALSE}
@@ -13,6 +13,11 @@ nstars <- function(n){
 
 books <- tibble::tribble(
   ~title, ~author, ~date, ~rating,
+  "[The War On The West](/reading/2022-06-14-the-war-on-the-west/index.html)", "Douglas Murray", "2022-06-14", nstars(1),
+  "[Jamaica Inn](/reading/2022-05-11-jamaica-inn/index.html)", "Daphne Du Maurier", "2022-05-11", nstars(3),
+  "[Men At Arms](/reading/2022-04-20-men-at-arms/index.html)", "Evelyn Waugh", "2022-04-20", nstars(3),
+  "[Piranesi](/reading/2022-03-29-piranesi/index.html)", "Susanna Clarke", "2022-03-29", nstars(3),
+  "[Project Hail Mary](/reading/2022-03-20-project-hail-mary/index.html)", "Andy Weir", "2022-03-20", nstars(1),
   "[Invisible Man](/reading/2022-03-01-invisible-man/index.html)", "Ralph Ellison", "2022-03-01", nstars(4),
   "[The First Forty-Nine Stories](/reading/2022-02-16-the-first-forty-nine-stories/index.html)", "Ernest Hemingway", "2022-02-16", nstars(5),
   "[Gilead](/reading/2022-01-14-gilead/index.html)", "Marilynne Robinson", "2022-01-14", nstars(3),

@@ -1,0 +1,27 @@
+---
+title: Men At Arms
+author: Bobby Ingram
+date: '2022-04-20'
+slug: []
+categories:
+  - books
+tags:
+  - fiction
+---
+
+<center>
+<img src="Evelyn Waugh - Men at Arms.jpg" 
+alt="Bobby" class="center" height="300">
+</center>
+<br>
+
+### Review
+
+### Rating &#11089;&#11089;&#11089;
+
+### Details
+
+* Pages: 256
+* ISBN: 978-0141185736
+* Publisher: Penguin Books Ltd
+* Bookshop: [Evelyn Waugh - Men At Arms](https://uk.bookshop.org/a/9445/9780141185736)
