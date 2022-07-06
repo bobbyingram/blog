@@ -52,6 +52,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "\\.knit\\.md$", "\\.utf8\\.md$", "_c
     url = "https://github.com/bobbyingram/"
     name = "github"
     weight = 3
+    
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
