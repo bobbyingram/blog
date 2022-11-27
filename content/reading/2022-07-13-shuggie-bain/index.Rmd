@@ -1,0 +1,28 @@
+---
+title: Shuggie Bain
+author: R package build
+date: '2022-07-13'
+slug: []
+categories:
+  - books
+tags:
+  - non-fiction
+---
+
+<center>
+<img src="Douglas Stuart - Shuggie Bain.jpg" 
+alt="Bobby" class="center" height="300">
+</center>
+<br>
+
+### Review
+
+### Rating &#11089;&#11089;&#11089;&#11089;
+
+### Details
+
+* Pages: 448
+* ISBN: 978-1529019292
+* Publisher: Pan Macmillan
+* Bookshop: [Douglas Stuart - Shuggie Bain](https://uk.bookshop.org/a/9445/9781529019292)
+

@@ -1,0 +1,28 @@
+---
+title: The Man Who Died Twice
+author: Bobby Ingram
+date: '2022-05-27'
+slug: []
+categories:
+  - books
+tags:
+  - fiction
+---
+
+<center>
+<img src="Richard Osman - The Man Who Died Twice.jpg" 
+alt="Bobby" class="center" height="300">
+</center>
+<br>
+
+### Review
+
+### Rating &#11089;&#11089;&#11089;
+
+### Details
+
+* Pages: 432
+* ISBN: 978-0241425428
+* Publisher: Penguin Books Ltd
+* Bookshop: [Richard Osman - The Man Who Died Twice](https://uk.bookshop.org/a/9445/9780241425428)
+

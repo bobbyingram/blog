@@ -13,7 +13,12 @@ nstars <- function(n){
 
 books <- tibble::tribble(
   ~title, ~author, ~date, ~rating,
+  "[A Brief History of Seven Killings](/reading/2022-09-29-a-brief-history-of-seven-killings/index.html)", "Marlon James", "2022-09-29", nstars(2),
+  "[Different Seasons](/reading/2022-08-31-different-seasons/index.html)", "Stephen King", "2022-08-31", nstars(5),
+  "[The Five](/reading/2022-08-02-the-five/index.html)", "Hallie Rubenhold", "2022-08-02", nstars(4),
+  "[Shuggie Bain](/reading/2022-07-13-shuggie-bain/index.html)", "Douglas Stuart", "2022-07-13", nstars(4),
   "[The War On The West](/reading/2022-06-14-the-war-on-the-west/index.html)", "Douglas Murray", "2022-06-14", nstars(1),
+  "[The Man Who Died Twice](/reading/2022-05-27-the-man-who-died-twice/index.html)", "Richard Osman", "2022-05-27", nstars(3),
   "[Jamaica Inn](/reading/2022-05-11-jamaica-inn/index.html)", "Daphne Du Maurier", "2022-05-11", nstars(3),
   "[Men At Arms](/reading/2022-04-20-men-at-arms/index.html)", "Evelyn Waugh", "2022-04-20", nstars(3),
   "[Piranesi](/reading/2022-03-29-piranesi/index.html)", "Susanna Clarke", "2022-03-29", nstars(3),

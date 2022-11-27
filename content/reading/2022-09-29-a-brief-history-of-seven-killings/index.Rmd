@@ -1,0 +1,27 @@
+---
+title: A Brief History of Seven Killings
+author: Bobby Ingram
+date: '2022-09-29'
+slug: []
+categories:
+  - books
+tags:
+  - fiction
+---
+
+<center>
+<img src="Marlon James - A Brief History of Seven Killings.jpg" 
+alt="Bobby" class="center" height="300">
+</center>
+<br>
+
+### Review
+
+### Rating &#11089;&#11089;
+
+### Details
+
+* Pages: 704
+* ISBN: 978-1780746357
+* Publisher: Oneworld Publications
+* Bookshop: [Marlon James - A Brief History of Seven Killings](https://uk.bookshop.org/a/9445/9781780746357)
