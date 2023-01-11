@@ -14,6 +14,7 @@ nstars <- function(n){
 books <- tibble::tribble(
   ~title, ~author, ~date, ~rating,
   "[White Heat](https://uk.bookshop.org/a/9445/9780349118208)", "Dominic Sandbrook", "2023-01-14", nstars(4),
+  "[Hamnet](https://uk.bookshop.org/a/9445/9781472223821)", "Maggie O'Farrell", "2023-01-12", nstars(2),
   "[The Silence Of The Girls](https://uk.bookshop.org/a/9445/9780241983201)", "Pat Barker", "2023-01-07", nstars(5),
   "[The Spy Who Came in from the Cold](https://uk.bookshop.org/a/9445/9780241978955)", "John le Carre", "2022-12-31", nstars(4), 
   "[Lucky Jim](https://uk.bookshop.org/a/9445/9780241956847)", "Kingsley Amis", "2022-12-22", nstars(3),
