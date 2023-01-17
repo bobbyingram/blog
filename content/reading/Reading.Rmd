@@ -13,6 +13,7 @@ nstars <- function(n){
 
 books <- tibble::tribble(
   ~title, ~author, ~date, ~rating,
+  "[Rogue Heroes](https://uk.bookshop.org/a/9445/9780241996904)", "Ben Macintyre", "2023-01-17", nstars(3),
   "[White Heat](https://uk.bookshop.org/a/9445/9780349118208)", "Dominic Sandbrook", "2023-01-14", nstars(4),
   "[Hamnet](https://uk.bookshop.org/a/9445/9781472223821)", "Maggie O'Farrell", "2023-01-12", nstars(2),
   "[The Silence Of The Girls](https://uk.bookshop.org/a/9445/9780241983201)", "Pat Barker", "2023-01-07", nstars(5),
