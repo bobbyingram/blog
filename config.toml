@@ -40,18 +40,23 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "\\.knit\\.md$", "\\.utf8\\.md$", "_c
 
 [[menu.icon]]
     url = "mailto:bobby@bobbyingram.co.uk"
-    name = "envelope-o"
+    name = "fa fa-envelope-o"
     weight = 1
     
 [[menu.icon]]
     url = "https://linkedin.com/in/bobby-ingram-300"
-    name = "linkedin"
+    name = "fa-brands fa-linkedin"
     weight = 2
 
 [[menu.icon]]
     url = "https://github.com/bobbyingram/"
-    name = "github"
+    name = "fa-brands fa-github"
     weight = 3
+    
+[[menu.icon]]
+    url = "https://www.strava.com/athletes/41607413"
+    name = "fa-brands fa-strava"
+    weight = 4
     
 [markup]
   [markup.goldmark]
