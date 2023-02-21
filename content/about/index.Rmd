@@ -7,12 +7,12 @@ weight: 2
 ---
 
 <center>
-<img src="about_me.JPG" alt="Bobby" class="center" height="300">
+<img src="about_me.JPG" alt="Bobby" class="center" width="33%">
 </center>
 <br>
 
 I live in Newcastle-under-Lyme, Staffordshire with my wife 
-[Rachael](https://www.andyourbirdcansew.co.uk), our son Harrison and our 
+[Rachael](https://www.etsy.com/uk/shop/AmyAndReg), our son Harrison and our 
 daughter Amelie.
 
 I grew up in nearby Burslem - the 'Mother Town' of the 
