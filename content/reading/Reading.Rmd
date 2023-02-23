@@ -13,6 +13,7 @@ nstars <- function(n){
 
 books <- tibble::tribble(
   ~title, ~author, ~date, ~rating,
+  "[Two Brothers](https://uk.bookshop.org/a/9445/9781408714492)", "Jonathan Wilson", "2023-02-23", nstars(3),
   "[Dance Dance Dance](https://uk.bookshop.org/a/9445/9780099448761)", "Haruki Murakami", "2023-02-20", nstars(3),
   "[The Old Wives' Tale](https://uk.bookshop.org/a/9445/9780099595359)", "Arnold Bennet", "2023-02-07", nstars(4),
   "[Money](https://uk.bookshop.org/a/9445/9780099461883)", "Martin Amis", "2023-01-27", nstars(4),
