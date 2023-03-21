@@ -13,6 +13,7 @@ nstars <- function(n){
 
 books <- tibble::tribble(
   ~title, ~author, ~date, ~rating,
+  "[Being Geoffrey Boycott](https://uk.bookshop.org/a/9445/9781915237064)", "Geoffrey Boycott", "2023-03-20", nstars(3),
   "[Lustrum](https://uk.bookshop.org/a/9445/9780099406327)", "Robert Harris", "2023-03-12", nstars(3),
   "[Days Without End](https://uk.bookshop.org/a/9445/9780571340224)", "Sebastian Barry", "2023-03-06", nstars(4),
   "[Imperium](https://uk.bookshop.org/a/9445/9780099527664)", "Robert Harris", "2023-02-27", nstars(3),
