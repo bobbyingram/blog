@@ -1,0 +1,50 @@
+---
+title: I'm Only Blogging
+author: R package build
+hidedate: TRUE
+slug: []
+categories:
+  - writing
+---
+
+Well, it's April 2023 and I promised myself this year I'd try to be a bit more
+creative and do a bit of writing. It'll mostly be nonsense and no doubt a poor 
+imitation of the writers I love but you can only hope to write songs as good as 
+your record collection.
+
+Anyway the name of my website comes from the great Bob Dylan song: [It's Alright Ma 
+(I’m Only Bleeding)](https://www.bobdylan.com/songs/its-alright-ma-im-only-bleeding/).
+So I thought it would be a nice way to begin by trying to write another three 
+verses of this masterpiece but with a modern twist.
+
+> Silent screens dictate the rules   
+as people seek solace in the cyber cesspool  
+Chasing hits and likes from online ghouls  
+Faking content to make their users drool   
+Forsake themselves for digital jewels  
+and wonder why they feel empty   
+> 
+> For the market's hunger knows no bounds  
+it consumes the soul as greed is crowned   
+in a plastic palace raised from the ground   
+While the endless race to grow and compound  
+Makes it impossible for the truth to be found   
+That enough is more than plenty   
+>  
+> In this age of noise, where silence flees   
+We shout for meaning, drowning in the seas  
+of shallow thoughts and easy tease  
+we drift apart with inevitable ease   
+yet before the screens we're on our knees    
+praying for an iPhone 20 
+>       
+> But don't mind too much what I write  
+it's only a feather in a cannon fight  
+It’s alright, Ma, I’m only blogging 
+
+Apologies to all Dylanolgists out there!
+
+And now for the man himself:
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/JBNWkCsmqAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
