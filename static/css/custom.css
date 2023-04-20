@@ -3,3 +3,8 @@
 body code, .hljs {
     font-family: 'Fira Code', monospace;
 }
+
+.intro > h1 {
+    color: #212121;
+    font-size: 8vh;
+}

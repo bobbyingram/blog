@@ -1,0 +1,19 @@
+---
+title: "Writing"
+menu: main
+weight: 3
+hidedate: TRUE
+disable_comments: TRUE
+---
+
+```{r, echo=FALSE}
+posts <- tibble::tribble(
+  ~title,
+  "[I'm Only Blogging](/writing/2023-04-18-im-only-blogging/index.html)"
+)
+```
+
+```{r, echo = FALSE}
+table <- knitr::kable(posts, col.names = "", "html", escape = FALSE)
+kableExtra::kable_styling(table, full_width = TRUE)
+```
