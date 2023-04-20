@@ -7,13 +7,13 @@ weight: 2
 ---
 
 <center>
-<img src="about_me.JPG" alt="Bobby" class="center" width="33%">
+<img src="us.JPG" alt="Bobby" class="center" width="100%">
 </center>
 <br>
 
 I live in Newcastle-under-Lyme, Staffordshire with my wife 
-[Rachael](https://www.etsy.com/uk/shop/AmyAndReg), our son Harrison and our 
-daughter Amelie.
+[Rachael](https://www.etsy.com/uk/shop/AmyAndReg), our son [Harrison](harrison.jpeg) and our 
+daughter [Amelie](amelie.jpeg).
 
 I grew up in nearby Burslem - the 'Mother Town' of the 
 [Potteries](https://en.wikipedia.org/wiki/Staffordshire_Potteries). 
