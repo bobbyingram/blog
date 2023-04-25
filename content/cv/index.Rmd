@@ -15,12 +15,15 @@ layout: cv
 ## Profile
 
 A lead analyst with over ten years' experience in the design and 
-implementation of statistical models within the sports and financial betting
-industries. 
+implementation of mathematical models within the sports and financial betting
+industries.
 
 Highly skilled in all areas of data analysis, statistical inference and 
 probabilistic predictive modelling with a proven track record of delivering 
-accurate, efficient and profitable models.
+accurate, efficient and profitable models. 
+
+Equally as comfortable working with large cloud-hosted big-data or with very 
+sparse limited datasets.
 
 An adaptable programmer that is not tied to any particular language, paradigm or
 tool set. A strong advocate for reproducible research practices and test driven 
@@ -34,16 +37,16 @@ pricing within the sports betting platform.
 
 <div style="column-count: 2; -moz-column-count: 2">
 * __Probability and Stochastic Processes__
-* __Bayesian Data Analysis__
+* __Machine Learning__
+* __Data Cleaning & Mining__ 
 * __Sports Betting__
 * __Financial Option Pricing__
-* __Data Cleaning & Mining__ 
 * __Technical Documentation__
 </div>
 
 ### Technologies
 
-```{r, message=FALSE, warning=FALSE, echo=FALSE, eval=FALSE}
+```{r, message=FALSE, echo = FALSE, warning=FALSE, out.width="100%"}
 library(tidyverse)
 library(scales)
 
@@ -51,12 +54,11 @@ skills <- tribble(
   ~Technology, ~Skill, ~Level,
   "R", 10, "Expert",
   "C#", 10, "Expert",
-  "git", 8, "Adept",
+  "Python", 9, "Expert",
   "Go", 8, "Adept",
   "SQL", 7, "Adept",
-  "Stan", 7, "Adept",
-  "Python", 5, "Intermediate",
-  "Matlab", 4, "Intermediate",
+  "Stan", 6, "Intermediate",
+  "Matlab", 5, "Intermediate",
   "C++", 3, "Basic",
   "Julia", 1, "Novice"
 )
@@ -75,10 +77,10 @@ ggplot(data = skills,
   scale_fill_discrete()
 ```
 
-<center>
-<img src="technologies.png" alt="Bobby" class="center">
-</center>
-<br>
+<!-- <center> -->
+<!-- <img src="technologies.png" alt="Bobby" class="center"> -->
+<!-- </center> -->
+<!-- <br> -->
 
 ## Education
 
@@ -102,13 +104,14 @@ __St. Margaret Ward RC Sixth Form__
 `2021-now`
 __Lead Sports Analyst, bet365__ 
 
-* Led a team of analysts in successfully delivering a new simulation-based 
-American Football model used to price all bet builder bets. 
-* Developed a bespoke distribution fitting algorithm to optimally construct
-distributions from single point value estimates and using domain knowledge to 
+* Led team in introduction of latest machine learning techniques to improve 
+predictive quality of existing models
+* Developed new simulation based US Sports models
+* Developed many bespoke distribution fitting algorithms for constructing 
+probability distributions from limited information using domain knowledge to 
 infer additional constraints.
 
-Technologies: Go, R, Python, C#, VB .NET, SQL, git, Stan
+Technologies: R, Python, Go, C#, Tensorflow, Keras, SQL, git, Stan, Google Cloud
 
 `2017-2021`
 __Senior Sports Analyst, bet365__
@@ -116,7 +119,7 @@ __Senior Sports Analyst, bet365__
 * Designed and implemented a new Markov Chain Monte-Carlo cricket model using
 10 years of historical ball-by-ball data to price 75% of in-play cricket betting. 
 * Developed a new rating algorithm to optimally and efficiently rank golfers 
-taking part in strokeplay tournaments. 
+taking part in all kinds of tournaments. 
 
 Technologies: R, Go, C#, VB .NET, SQL, git, Stan
 
