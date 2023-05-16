@@ -13,6 +13,7 @@ nstars <- function(n){
 
 books <- tibble::tribble(
   ~title, ~author, ~date, ~rating,
+  "[Dictator](https://uk.bookshop.org/a/9445/9780099474197)", "Robert Harris", "2023-05-14", nstars(3),
   "[Black and British](https://uk.bookshop.org/a/9445/9781529065602)", "David Olusoga", "2023-04-29", nstars(4),
   "[The Trees](https://uk.bookshop.org/a/9445/9781914391170)", "Percival Everett", "2023-04-20", nstars(4),
   "[Booth](https://uk.bookshop.org/a/9445/9781788168649)", "Karen Joy Fowler", "2023-04-10", nstars(2),
