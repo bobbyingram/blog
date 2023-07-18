@@ -13,6 +13,10 @@ nstars <- function(n){
 
 books <- tibble::tribble(
   ~title, ~author, ~date, ~rating,
+  "[Inverting the Pyramid](https://uk.bookshop.org/a/9445/9781399610094)", "Jonathan Wilson", "2023-07-18", nstars(3),
+  "[An Instance of the Fingerpost](https://uk.bookshop.org/a/9445/9780099751816)", "Iain Pears", "2023-07-04", nstars(4),
+  "[Ultra-Processed People](https://uk.bookshop.org/a/9445/9781529900057)", "Chris van Tulleken", "2023-06-14", nstars(3),
+  "[Billy Summers](https://uk.bookshop.org/a/9445/9781529365702)", "Stephen King", "2023-05-28", nstars(3),
   "[Dictator](https://uk.bookshop.org/a/9445/9780099474197)", "Robert Harris", "2023-05-14", nstars(3),
   "[Black and British](https://uk.bookshop.org/a/9445/9781529065602)", "David Olusoga", "2023-04-29", nstars(4),
   "[The Trees](https://uk.bookshop.org/a/9445/9781914391170)", "Percival Everett", "2023-04-20", nstars(4),
