@@ -13,6 +13,9 @@ nstars <- function(n){
 
 books <- tibble::tribble(
   ~title, ~author, ~date, ~rating,
+  "[First Person Singular](https://uk.bookshop.org/a/9445/9781529113594)", "Haruki Murakami", "2023-08-14", nstars(3),
+  "[The Dhama Bums](https://uk.bookshop.org/a/9445/9780241348062)", "Jack Kerouac", "2023-07-30", nstars(5),
+  "[A Moveable Feast](https://uk.bookshop.org/a/9445/9780099285045)", "Ernest Hemingway", "2023-07-27", nstars(5),
   "[The Book of Form and Emptiness](https://uk.bookshop.org/a/9445/9781838855277)", "Ruth Ozeki", "2023-07-25", nstars(4),
   "[Inverting the Pyramid](https://uk.bookshop.org/a/9445/9781399610094)", "Jonathan Wilson", "2023-07-18", nstars(3),
   "[An Instance of the Fingerpost](https://uk.bookshop.org/a/9445/9780099751816)", "Iain Pears", "2023-07-04", nstars(4),
