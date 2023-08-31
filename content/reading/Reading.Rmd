@@ -13,6 +13,7 @@ nstars <- function(n){
 
 books <- tibble::tribble(
   ~title, ~author, ~date, ~rating,
+  "[State of Emergency](https://uk.bookshop.org/a/9445/9780141032153)", "Dominic Sandbrook", "2023-08-29", nstars(4), 
   "[First Person Singular](https://uk.bookshop.org/a/9445/9781529113594)", "Haruki Murakami", "2023-08-14", nstars(3),
   "[The Dhama Bums](https://uk.bookshop.org/a/9445/9780241348062)", "Jack Kerouac", "2023-07-30", nstars(5),
   "[A Moveable Feast](https://uk.bookshop.org/a/9445/9780099285045)", "Ernest Hemingway", "2023-07-27", nstars(5),
