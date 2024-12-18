@@ -90,7 +90,7 @@ books <- tibble::tribble(
   "[The Mirror And The Light](https://uk.bookshop.org/a/9445/9780007481002)", "Hilary Mantel", "2021-11-28", nstars(4),
   "[Bringing Up The Bodies](https://uk.bookshop.org/a/9445/9780008381684)", "Hilary Mantel", "2021-11-17", nstars(5),
   "[Wolf Hall](https://uk.bookshop.org/a/9445/9780008381691)", "Hilary Mantel", "2021-11-10", nstars(4),
-  "[Pachinko](https://uk.bookshop.org/a/9445/9781786691378)", "Min Jin Lee", "2021-11-01", nstars(3),
+  "[Pachinko](https://uk.bookshop.org/a/9445/9781838930509)", "Min Jin Lee", "2021-11-01", nstars(4),
   "[Chronicles](https://uk.bookshop.org/a/9445/9780743478649)", "Bob Dylan", "2021-10-24", nstars(4),
   "[The Time Traveller's Guide to Regency Britain](https://uk.bookshop.org/a/9445/9781784705961)", "Ian Mortimer", "2021-10-16", nstars(3),
 )
