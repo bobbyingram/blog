@@ -36,7 +36,7 @@ books <- tibble::tribble(
   "[The Iliad](https://uk.bookshop.org/a/9445/9781324001805)", "Homer (Emily Wilson)", "2023-11-01", nstars(3),
   "[Master and Commander](https://uk.bookshop.org/a/9445/9780006499152)", "Patrick O'Brian", "2023-10-07", nstars(3),
   "[The Fraud](https://uk.bookshop.org/a/9445/9780241336991)", "Zadie Smith", "2023-09-30", nstars(2),
-  "[Old God's Time](https://uk.bookshop.org/a/9445/9780571332779)", "Sebastian Barry", "2023-09-10", nstars(3),
+  "[Old God's Time](https://uk.bookshop.org/a/9445/9780571332793)", "Sebastian Barry", "2023-09-10", nstars(3),
   "[State of Emergency](https://uk.bookshop.org/a/9445/9780141032153)", "Dominic Sandbrook", "2023-08-29", nstars(4), 
   "[First Person Singular](https://uk.bookshop.org/a/9445/9781529113594)", "Haruki Murakami", "2023-08-14", nstars(3),
   "[The Dhama Bums](https://uk.bookshop.org/a/9445/9780241348062)", "Jack Kerouac", "2023-07-30", nstars(5),
