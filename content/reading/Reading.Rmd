@@ -72,7 +72,7 @@ books <- tibble::tribble(
   "[The Satsuma Complex](https://uk.bookshop.org/a/9445/9781398521209)", "Bob Mortimer", "2022-11-03", nstars(4),
   "[Shakespeare](https://uk.bookshop.org/a/9445/9780007197903)", "Bill Bryson", "2022-10-12",nstars(3),
   "[The Bullet That Missed](https://uk.bookshop.org/a/9445/9780241512425)", "Richard Osman", "2022-10-06", nstars(3),
-  "[A Brief History of Seven Killings](https://uk.bookshop.org/a/9445/9781780746357)", "Marlon James", "2022-09-29", nstars(2),
+  "[A Brief History of Seven Killings](https://uk.bookshop.org/a/9445/9780861545582)", "Marlon James", "2022-09-29", nstars(2),
   "[Different Seasons](https://uk.bookshop.org/a/9445/9781444723601)", "Stephen King", "2022-08-31", nstars(5),
   "[The Five](https://uk.bookshop.org/a/9445/9781784162344)", "Hallie Rubenhold", "2022-08-02", nstars(4),
   "[Shuggie Bain](https://uk.bookshop.org/a/9445/9781529019292)", "Douglas Stuart", "2022-07-13", nstars(4),
