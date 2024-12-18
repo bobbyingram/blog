@@ -13,6 +13,11 @@ nstars <- function(n){
 
 books <- tibble::tribble(
   ~title, ~author, ~date, ~rating,
+  "[Endurance](https://uk.bookshop.org/a/9445/9780753809877)", "Alfred Lansing", "2024-12-02", nstars(5),
+  "[Glorious Exploits](https://uk.bookshop.org/a/9445/9780241617649)", "Ferdia Lennon", "2024-11-20", nstars(2),
+  "[My Early Life](https://uk.bookshop.org/a/9445/9780907871620)", "Winston Churchill", "2024-11-01", nstars(3),
+  "[A Tale of Two Cities](https://uk.bookshop.org/a/9445/9781774370070)", "Charles Dickens", "2024-10-14", nstars(3),
+  "[Precipice](https://uk.bookshop.org/a/9445/9781529152821)", "Robert Harris", "2024-09-24", nstars(4),
   "[Hotel Avacado](https://uk.bookshop.org/a/9445/9781398529625)", "Bob Mortimer", "2024-09-05", nstars(4),
   "[Timecode of a Face](https://uk.bookshop.org/a/9445/9781838855901)", "Ruth Ozeki", "2024-09-03", nstars(3),
   "[Restless Republic](https://uk.bookshop.org/a/9445/9780008282059)", "Anna Keay", "2024-08-30", nstars(3),
