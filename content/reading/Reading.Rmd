@@ -85,7 +85,7 @@ books <- tibble::tribble(
   "[Invisible Man](https://uk.bookshop.org/a/9445/9780141184425)", "Ralph Ellison", "2022-03-01", nstars(4),
   "[The First Forty-Nine Stories](https://uk.bookshop.org/a/9445/9780099339212)", "Ernest Hemingway", "2022-02-16", nstars(5),
   "[Gilead](https://uk.bookshop.org/a/9445/9781844081486)", "Marilynne Robinson", "2022-01-14", nstars(3),
-  "[A Christmas Carol](https://uk.bookshop.org/a/9445/9780140439052)", "Charles Dickens", "2021-12-24", nstars(4),
+  "[A Christmas Carol](https://uk.bookshop.org/a/9445/9780141195858)", "Charles Dickens", "2021-12-24", nstars(4),
   "[Hard Times](https://uk.bookshop.org/a/9445/9781784873431)", "Charles Dickens", "2021-12-20", nstars(3),
   "[The Mirror And The Light](https://uk.bookshop.org/a/9445/9780007481002)", "Hilary Mantel", "2021-11-28", nstars(4),
   "[Bringing Up The Bodies](https://uk.bookshop.org/a/9445/9780008381684)", "Hilary Mantel", "2021-11-17", nstars(5),
