@@ -77,7 +77,7 @@ books <- tibble::tribble(
   "[The Five](https://uk.bookshop.org/a/9445/9781784162344)", "Hallie Rubenhold", "2022-08-02", nstars(4),
   "[Shuggie Bain](https://uk.bookshop.org/a/9445/9781529019292)", "Douglas Stuart", "2022-07-13", nstars(4),
   "[The War On The West](https://uk.bookshop.org/a/9445/9780008492496)", "Douglas Murray", "2022-06-14", nstars(1),
-  "[The Man Who Died Twice](https://uk.bookshop.org/a/9445/9780241425428)", "Richard Osman", "2022-05-27", nstars(3),
+  "[The Man Who Died Twice](https://uk.bookshop.org/a/9445/9780241988244)", "Richard Osman", "2022-05-27", nstars(3),
   "[Jamaica Inn](https://uk.bookshop.org/a/9445/9780349006581)", "Daphne Du Maurier", "2022-05-11", nstars(3),
   "[Men At Arms](https://uk.bookshop.org/a/9445/9780141185736)", "Evelyn Waugh", "2022-04-20", nstars(3),
   "[Piranesi](https://uk.bookshop.org/a/9445/9781526622433)", "Susanna Clarke", "2022-03-29", nstars(3),
