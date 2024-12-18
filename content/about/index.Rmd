@@ -7,13 +7,13 @@ weight: 2
 ---
 
 <center>
-<img src="us.JPG" alt="Bobby" class="center" width="100%">
+<img src="ingrams.jpg" alt="Bobby" class="center" width="100%">
 </center>
 <br>
 
-I live in Newcastle-under-Lyme, Staffordshire with my wife 
-[Rachael](https://www.etsy.com/uk/shop/AmyAndReg), our son [Harrison](harrison.jpeg) and our 
-daughter [Amelie](amelie.jpeg).
+I live in Stoke-on-Trent, Staffordshire with my wife 
+[Rachael](https://www.etsy.com/uk/shop/AmyAndReg), our son 
+[Harrison](harrison.jpeg) and our daughter [Amelie](amelie.jpeg).
 
 I grew up in nearby Burslem - the 'Mother Town' of the 
 [Potteries](https://en.wikipedia.org/wiki/Staffordshire_Potteries). 
@@ -29,8 +29,8 @@ soundtrack to my life.
 I'm a real bookworm and always have a book on the go. You can see what I've been 
 reading recently [here](/reading/reading).
 
-I work as Lead Sports Analyst at [bet365](https://www.bet365.com) where I design
-and implement probabilistic models to drive the pricing of bets across a range 
-of sports.
+I work as the Principal Sports Analyst at [bet365](https://www.bet365.com). We 
+design and implement probabilistic models to drive the pricing of bets across a 
+range of sports.
 
 Feel free to contact me via [email](mailto:bobby@bobbyingram.co.uk). 
